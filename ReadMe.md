@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://files.ntxm.org/releases/KinoFlux/KinoflixPlayer-Setup.exe">
+    <a href="https://github.com/ntxmproducts/kinoflix-player/releases/tag/kinoflix-video-player-software">
       <img src="https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows" alt="Download for Windows" />
     </a>
   </p>
@@ -48,7 +48,7 @@ Whether you are watching high-definition movies or personal clips, Kinoflix puts
 
 Kinoflix is built exclusively for Windows.
 
-1.  **[Download the Setup File](https://files.ntxm.org/releases/KinoFlux/KinoflixPlayer-Setup.exe)** (`KinoflixPlayer-Setup.exe`).
+1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflix-player/releases/tag/kinoflix-video-player-software)** (`KinoflixPlayer-Setup.exe`).
 2.  Run the installer.
 3.  Launch Kinoflix from your desktop or start menu.
 4.  Drag and drop a video or click the folder icon to start watching.
